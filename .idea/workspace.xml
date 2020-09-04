@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="47" />
+    <option name="y" value="-4" />
+    <option name="width" value="1295" />
+    <option name="height" value="744" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FirstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstPackage.FirstClass" />
+      <module name="Te" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FirstPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FirstClass" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
